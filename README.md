@@ -28,5 +28,5 @@ So I'm sharing these in case they are useful to others.
 
 ## Help
 If you know a nice easy way to create a react project with a particular version
-then please create an issue and let me know. With one thing and aother it seems to
-change from time to time, so maybe can can capture that here too.
+then please create an issue and let me know. With one thing and another React's `package.json`
+seems to change from time to time, so maybe I can capture that here too.
