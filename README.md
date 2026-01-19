@@ -14,6 +14,20 @@ npm install
 yarn install
 ```
 
+## Created how?
+
+Each React installation is created by running:
+
+```
+npm init react-app new-app
+```
+
+The only changes to what is produced is:
+
+1. The `node_modules` folder has been removed.
+2. Updating the **name** in `package.json` to "react-&lt;react-version&gt;".
+
+
 ## Why
 I wanted to have a quick play with [react-html-parser](https://www.npmjs.com/package/react-html-parser)
 but the current `npx create-react-app` installs ReactJS 18 and [react-html-parser](https://www.npmjs.com/package/react-html-parser) requires version 16.
