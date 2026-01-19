@@ -19,7 +19,7 @@ yarn install
 Each React installation is created by running:
 
 ```
-npm init react-app new-app
+npx create-react-app new-app
 ```
 
 The only changes to what is produced is:
